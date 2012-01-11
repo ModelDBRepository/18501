@@ -22,3 +22,5 @@ provide the type of cell that was used, e.g. the "group 2,medium complex"
 cell in Fig. 6. Therefore, the spreadsheet may help narrow the search for the 
 exact neuron used in the figure.  
 
+20120111 updated capump.mod to use derivimplicit instead of euler as per
+http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592
