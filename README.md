@@ -8,8 +8,7 @@ I've provided the *.hoc and geometry file of each model retinal ganglion cells u
 
 I did supply an additional spreadsheet which provides both classification's (Toris and Miller, 1995, and our new electrophysiological classification groups 1 - 4) neuron's active and passive properties. Each figure does provide the type of cell that was used, e.g. the "group 2, medium complex" cell in Fig. 6. Therefore, the spreadsheet may help narrow the search for the exact neuron used in the figure.
 
+## Changelog
 2012-01-11 updated capump.mod to use derivimplicit instead of euler as per [http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592](http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592)
-
----
 
 2025-05-27 – Standardized to Markdown.
